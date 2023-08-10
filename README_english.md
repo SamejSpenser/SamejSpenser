@@ -10,6 +10,7 @@ abstract: "Breve descrição sobre Samej Spenser."
 links:
   - "https://about.me/SamejSpenser"
   - "https://github.com/SamejSpenser/"
+  - "https://github.com/SamejSpenser/SamejSpenser/blob/main/README_english.md"
   - "https://gitlab.com/samej/"
   - "https://gitlab.com/samej/samej/-/blob/58e77ba5087871fd95ec47b706902b3584d3187e/README_english.md"
   - "https://teletype.in/@samej/sobre"
