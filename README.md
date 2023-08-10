@@ -8,7 +8,9 @@ tag: "samej_spenser"
 aliases: ["Samej Spenser", "Sobre Samej Spenser"]
 abstract: "Breve descrição sobre Samej Spenser."
 links:
+  - "https://about.me/SamejSpenser"
   - "https://github.com/SamejSpenser/"
+  - "https://github.com/SamejSpenser/SamejSpenser/blob/main/README_english.md"
   - "https://gitlab.com/samej/"
   - "https://gitlab.com/samej/samej/-/blob/58e77ba5087871fd95ec47b706902b3584d3187e/README_english.md"
   - "https://teletype.in/@samej/sobre"
@@ -33,7 +35,7 @@ lang: "pt-BR"
 
 <!-- SOBRE SAMEJ SPENSER ~ CRIADO EM 2022/07/20 ~ ATUALIZADO EM 2023/08/10 -->
 
-Read in English [here](https://gitlab.com/samej/samej/-/blob/main/README_english.md?ref_type=heads)!
+Read in English [here](https://github.com/SamejSpenser/SamejSpenser/blob/main/README_english.md)!
 
 <p>&nbsp;</p>
 
