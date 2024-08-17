@@ -3,7 +3,7 @@ title: "About Samej Spenser"
 author: "Samej Spenser"
 dates:
   - create: "August 09, 2023"
-  - modified: "August 10, 2023"
+  - modified: "August 17, 2024"
 tag: "samej_spenser"
 aliases: ["Samej Spenser", "Sobre Samej Spenser"]
 abstract: "Breve descrição sobre Samej Spenser."
@@ -32,49 +32,51 @@ lang: "pt-BR"
 
 <link rel="stylesheet" type="text/css" href="/storage/emulated/0/Obsidian/.obsidian/snippets/stylesheet-geral.css" />
 
-<!-- ABOUT SAMEJ SPENSER ~ CREATED IN 2022/07/20 ~ UPDATED IN 2023/08/10 -->
+<!-- ABOUT SAMEJ SPENSER ~ CREATED IN 2022/07/20 ~ UPDATED IN 2024/08/17 -->
 
 Leia em Português [aqui](https://github.com/SamejSpenser/)!
 
 <p>&nbsp;</p>
 
-### Brief description
+### Brief Description
 
 <p>&nbsp;</p>
 
-<!-- IMAGEM ALINHADA À DIREITA -->
+<!-- IMAGE ALIGNED TO THE RIGHT -->
 
-<!-- <span class="dire40" align="right">![Foto de Samej Spenser](https://i.imgur.com/ly42y3j.jpg)
-<small>**Foto: ©** Raquel Reis • [raquelreis.com.br](http://raquelreis.com.br/)</small></span> -->
+<!-- <span class="dire40" align="right">![Photo of Samej Spenser](https://i.imgur.com/ly42y3j.jpg)
+<small>**Photo: ©** Raquel Reis • [raquelreis.com.br](http://raquelreis.com.br/)</small></span> -->
 
-<img height="auto" width="40%" align="right" alt="Samej Spenser" src="https://telegra.ph/file/acb931b646acf0d00a1a2.jpg" style="height: auto; width: 40%; float: right;" /><!-- <br /><small><strong>©</strong> Raquel Reis • <a target="_blank" title="Raquel Reis Fotografia" href="https://raquelreis.com.br/">raquelreis.com.br</a></small> -->
+<img height="auto" width="40%" align="right" alt="Photo of Samej Spenser" src="https://telegra.ph/file/acb931b646acf0d00a1a2.jpg" style="height: auto; width: 40%; float: right;" /><!-- <br /><small><strong>Photo: ©</strong> Raquel Reis • <a target="_blank" title="Raquel Reis Photography" href="https://raquelreis.com.br/">raquelreis.com.br</a></small> -->
 
 - Christian;
 
 - Brazilian, born in Mauá, SP;
 
-- Voracious student of hypnosis, (Self-taught Hypnologist), since mid-1998, Hypnotist, Hypnotherapist and Mental Reprogrammer;
+- Avid student of hypnosis, (self-taught Hypnologist), since the mid-1998;
+
+- Self-taught in _Classical Hypnosis_;
+
+- Hypnotist, [Hypnotherapist and Mental Reprogrammer](https://sociedadeinteramericanadehipnose.com/hipnoterapeutas-certificados#saopaulo "Certified Professionals") since 2011;
 
 - 45 years old;
 
 - Father of 2 children;
 
-- Administrator of the [@DicasTelegram](https://DicasTelegram.t.me) channel, [@DicasChat](https://DicasChat.t.me) and [@ObsidianBR](https://ObsidianBR.t.me) groups on Telegram (and dozens of other channels and groups);
+- Administrator of the channel [@DicasTelegram](https://DicasTelegram.t.me), the groups [@DicasChat](https://DicasChat.t.me) and [@ObsidianBR](https://ObsidianBR.t.me) on Telegram (and dozens of other channels and groups);
 
-- Self-taught in _Classical Hypnosis_;
-
-- _Clinical Hypnosis_ and Qualified Therapist in _Mental Reprogramming with NLP and Hypnosis_ by (and affiliated with) [SIAH — InterAmerican Society of Hypnosis](http://sociedadeinteramericanadehipnose.com/) (São Paulo, SP).  
-    **Membership Number:** 1550;
+- _Clinical Hypnosis_ and Therapist qualified in _Mental Reprogramming with NLP and Hypnosis_ by (and affiliated with) [SIAH — InterAmerican Society of Hypnosis](http://sociedadeinteramericanadehipnose.com/) (São Paulo, SP).  
+    **Membership No.:** 1550;
 
 - _Clinical Hypnosis_ by AIHCE — International Association of Clinical and Experimental Hypnosis;
 
-- I write articles for the blog “[Samej Spenser](https://www.samejspenser.com.br/)”, for the publication [Hypnosis Practice](https://medium.com/hipnose-pratica) on Medium and, more recently, on the [new website](https://teletype.in/@samej);
+- I write articles for the blog “[Samej Spenser](https://www.samejspenser.com.br/)”, for the publication [Practical Hypnosis](https://medium.com/hipnose-pratica) on Medium and, more recently, [on the new site](https://teletype.in/@samej/);
 
-- Founder (and one of the administrators) of the [HYPNOSIS Practice](https://medium.com/hipnose-pratica/venha-fazer-parte-do-grupo-hipnose-pr%C3%A1tica-553f42094c48) group on Facebook;
+- Founder (and one of the administrators) of the group [PRACTICAL HYPNOSIS](https://medium.com/hipnose-pratica/venha-fazer-parte-do-grupo-hipnose-pr%C3%A1tica-553f42094c48) on Facebook;
 
-- Creator and administrator of the [HYPNOSIS Practice](https://medium.com/hipnose-pratica/venha-fazer-parte-do-grupo-hipnose-pr%C3%A1tica-553f42094c48) group and the [HP News](https://t.me/HPnews) Channel on Telegram;
+- Creator and administrator of the group [PRACTICAL HYPNOSIS](https://medium.com/hipnose-pratica/venha-fazer-parte-do-grupo-hipnose-pr%C3%A1tica-553f42094c48) and the Channel [HP News](https://t.me/HPnews) on Telegram;
 
-- Creator and host of the podcast [HP News — Hypnosis whispered in your ear!](https://www.hpnews.com.br/), (which can also be heard on [Spotify](https://open.spotify.com/show/67W05SItb7tV7eWzNWnzh7?si=SQUd0m2pTAaFypmBCViy8Q) and [Podcast Addict](https://podcastaddict.com/?podId=2115346)) and [Accumulated Uselessness](https://podcasters.spotify.com/pod/show/inutilidades) (which can also be heard on [Spotify](https://open.spotify.com/show/3zm3tqU1fn6qkrJxsKITfq) and [Podcast Addict](https://podcastaddict.com/?podId=2330538) );
+- Creator and host of the podcast [HP News — Hypnosis whispered in your ear!](https://www.hpnews.com.br/), (which can also be heard on [Spotify](https://open.spotify.com/show/67W05SItb7tV7eWzNWnzh7) and on [Podcast Addict](https://podcastaddict.com/?podId=2115346)) and [Accumulated Uselessness](https://podcasters.spotify.com/pod/show/inutilidades) (which can also be heard on [Spotify](https://open.spotify.com/show/3zm3tqU1fn6qkrJxsKITfq) and on [Podcast Addict](https://podcastaddict.com/?podId=2330538));
 
 - I have been working with **Online Hypnotherapy** since 2018, as can be [seen here](https://teletype.in/@samej/hipnoterapia-online) (in Portuguese).
 
@@ -84,17 +86,20 @@ Check out my complete biography, the meaning of my name and other information [h
 
 <p>&nbsp;</p>
 
-### Social media
+### Social Networks
 
-Check out my social media and other links on the linktree page: [linktr.ee/samej](https://linktr.ee/samej).
+Check out my social networks and other links on the linktree page: [linktr.ee/samej](https://linktr.ee/samej).
 
 <p>&nbsp;</p>
 
 ### Photography
 
-© Raquel Reis • [raquelreis.com.br](https://raquelreis.com.br/).
+**©** Raquel Reis • [raquelreis.com.br](http://raquelreis.com.br/).
 
 <p>&nbsp;</p>
 
+<!-- ###### tags:
 
+#samej_spenser
 
+<p>&nbsp;</p> -->
