@@ -66,7 +66,7 @@ Read in English [here](https://github.com/SamejSpenser/SamejSpenser/blob/main/RE
 
 - Administrador do canal [@DicasTelegram](https://DicasTelegram.t.me), dos grupos [@DicasChat](https://DicasChat.t.me) e [@ObsidianBR](https://ObsidianBR.t.me) no Telegram (e dezenas de outros canais e grupos);
 
-- _Hipnose Clínica_ e Terapeuta habilitado em _Reprogramação Mental com PNL e Hipnose_ pela (e filiado a) [SIAH — Sociedade InterAmericana de Hipnose](http://sociedadeinteramericanadehipnose.com/) (São Paulo, SP).
+- _Hipnose Clínica_ e Terapeuta habilitado em _Reprogramação Mental com PNL e Hipnose_ pela (e filiado a) [SIAH — Sociedade InterAmericana de Hipnose](http://sociedadeinteramericanadehipnose.com/) (São Paulo, SP).  
     **N.º de Filiação:** 1550;
 
 - _Hipnose Clínica_ pela AIHCE — Asociación Internacional de Hipnosis Clínica y Experimental;
