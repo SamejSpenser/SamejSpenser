@@ -48,7 +48,7 @@ Read in English [here](https://github.com/SamejSpenser/SamejSpenser/blob/main/RE
 <!-- <span class="dire40" align="right">![Foto de Samej Spenser](https://i.imgur.com/ly42y3j.jpg)
 <small>**Foto: ©** Raquel Reis • [raquelreis.com.br](http://raquelreis.com.br/)</small></span> -->
 
-<img height="auto" width="40%" align="right" alt="Foto de Samej Spenser" src="https://i.imgur.com/ly42y3j.jpg" style="height: auto; width: 40%; float: right;" /><!-- <br /><small><strong>Foto: ©</strong> Raquel Reis • <a target="_blank" title="Raquel Reis Fotografia" href="https://raquelreis.com.br/">raquelreis.com.br</a></small> -->
+<img height="auto" width="40%" align="right" alt="Foto de Samej Spenser" src="https://telegra.ph/file/acb931b646acf0d00a1a2.jpg" style="height: auto; width: 40%; float: right;" /><!-- <br /><small><strong>Foto: ©</strong> Raquel Reis • <a target="_blank" title="Raquel Reis Fotografia" href="https://raquelreis.com.br/">raquelreis.com.br</a></small> -->
 
 - Cristão;
 
