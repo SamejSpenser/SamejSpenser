@@ -3,7 +3,7 @@ title: "Sobre Samej Spenser"
 author: "Samej Spenser"
 dates:
   - create: "July 20, 2022"
-  - modified: "August 10, 2023"
+  - modified: "August 17, 2024"
 tag: "samej_spenser"
 aliases: ["Samej Spenser", "Sobre Samej Spenser"]
 abstract: "Breve descrição sobre Samej Spenser."
@@ -33,7 +33,7 @@ lang: "pt-BR"
 
 <link rel="stylesheet" type="text/css" href="/storage/emulated/0/Obsidian/.obsidian/snippets/stylesheet-geral.css" />
 
-<!-- SOBRE SAMEJ SPENSER ~ CRIADO EM 2022/07/20 ~ ATUALIZADO EM 2023/08/10 -->
+<!-- SOBRE SAMEJ SPENSER ~ CRIADO EM 2022/07/20 ~ ATUALIZADO EM 2024/08/17 -->
 
 Read in English [here](https://github.com/SamejSpenser/SamejSpenser/blob/main/README_english.md)!
 
@@ -54,15 +54,17 @@ Read in English [here](https://github.com/SamejSpenser/SamejSpenser/blob/main/RE
 
 - Brasileiro, natural de Mauá, SP;
 
-- Voraz estudante de hipnose, (Hipnólogo autodidata), desde meados de 1998, Hipnotista, Hipnoterapeuta e Reprogramador Mental;
+- Voraz estudante de hipnose, (Hipnólogo autodidata), desde meados de 1998;
+
+- Autodidata em _Hipnose Clássica_;
+
+- Hipnotista, [Hipnoterapeuta e Reprogramador Mental](https://sociedadeinteramericanadehipnose.com/hipnoterapeutas-certificados#saopaulo "Profissionais Certificados") desde 2011;
 
 - 45 anos;
 
 - Pai de 2 filhos;
 
 - Administrador do canal [@DicasTelegram](https://DicasTelegram.t.me), dos grupos [@DicasChat](https://DicasChat.t.me) e [@ObsidianBR](https://ObsidianBR.t.me) no Telegram (e dezenas de outros canais e grupos);
-
-- Autodidata em _Hipnose Clássica_;
 
 - _Hipnose Clínica_ e Terapeuta habilitado em _Reprogramação Mental com PNL e Hipnose_ pela (e filiado a) [SIAH — Sociedade InterAmericana de Hipnose](http://sociedadeinteramericanadehipnose.com/) (São Paulo, SP).
     **N.º de Filiação:** 1550;
