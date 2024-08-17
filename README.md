@@ -56,7 +56,7 @@ Read in English [here](https://github.com/SamejSpenser/SamejSpenser/blob/main/RE
 
 - Voraz estudante de hipnose, (Hipnólogo autodidata), desde meados de 1998, Hipnotista, Hipnoterapeuta e Reprogramador Mental;
 
-- 44 anos;
+- 45 anos;
 
 - Pai de 2 filhos;
 
@@ -75,7 +75,7 @@ Read in English [here](https://github.com/SamejSpenser/SamejSpenser/blob/main/RE
 
 - Criador e administrador do grupo [HIPNOSE Prática](https://medium.com/hipnose-pratica/venha-fazer-parte-do-grupo-hipnose-pr%C3%A1tica-553f42094c48) e do Canal [HP News](https://t.me/HPnews) no Telegram;
 
-- Criador e host do podcast [HP News — Hipnose ao pé do ouvido!](https://www.hpnews.com.br/), (que também pode ser ouvido no [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLm1lZ2Fmb25vLmhvc3QvaHAtbmV3cw%3D%3D), [Spotify](https://open.spotify.com/show/67W05SItb7tV7eWzNWnzh7?si=SQUd0m2pTAaFypmBCViy8Q) e no [Podcast Addict](https://podcastaddict.com/?podId=2115346)) e [Inutilidades Acumuladas](https://podcasters.spotify.com/pod/show/inutilidades) (que também pode ser ouvido no [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9lYTA5NDgvcG9kY2FzdC9yc3M%3D), [Spotify](https://open.spotify.com/show/3zm3tqU1fn6qkrJxsKITfq) e no [Podcast Addict](https://podcastaddict.com/?podId=2330538));
+- Criador e host do podcast [HP News — Hipnose ao pé do ouvido!](https://www.hpnews.com.br/), (que também pode ser ouvido no [Spotify](https://open.spotify.com/show/67W05SItb7tV7eWzNWnzh7?si=SQUd0m2pTAaFypmBCViy8Q) e no [Podcast Addict](https://podcastaddict.com/?podId=2115346)) e [Inutilidades Acumuladas](https://podcasters.spotify.com/pod/show/inutilidades) (que também pode ser ouvido no [Spotify](https://open.spotify.com/show/3zm3tqU1fn6qkrJxsKITfq) e no [Podcast Addict](https://podcastaddict.com/?podId=2330538));
 
 - Atuo com **Hipnoterapia Online** desde 2018, como pode ser [conferido aqui](https://teletype.in/@samej/hipnoterapia-online).
 
