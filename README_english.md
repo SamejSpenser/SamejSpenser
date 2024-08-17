@@ -47,7 +47,7 @@ Leia em Português [aqui](https://github.com/SamejSpenser/)!
 <!-- <span class="dire40" align="right">![Foto de Samej Spenser](https://i.imgur.com/ly42y3j.jpg)
 <small>**Foto: ©** Raquel Reis • [raquelreis.com.br](http://raquelreis.com.br/)</small></span> -->
 
-<img height="auto" width="40%" align="right" alt="Samej Spenser" src="https://i.imgur.com/ly42y3j.jpg" style="height: auto; width: 40%; float: right;" /><!-- <br /><small><strong>©</strong> Raquel Reis • <a target="_blank" title="Raquel Reis Fotografia" href="https://raquelreis.com.br/">raquelreis.com.br</a></small> -->
+<img height="auto" width="40%" align="right" alt="Samej Spenser" src="https://telegra.ph/file/acb931b646acf0d00a1a2.jpg" style="height: auto; width: 40%; float: right;" /><!-- <br /><small><strong>©</strong> Raquel Reis • <a target="_blank" title="Raquel Reis Fotografia" href="https://raquelreis.com.br/">raquelreis.com.br</a></small> -->
 
 - Christian;
 
@@ -55,7 +55,7 @@ Leia em Português [aqui](https://github.com/SamejSpenser/)!
 
 - Voracious student of hypnosis, (Self-taught Hypnologist), since mid-1998, Hypnotist, Hypnotherapist and Mental Reprogrammer;
 
-- 44 years old;
+- 45 years old;
 
 - Father of 2 children;
 
@@ -74,7 +74,7 @@ Leia em Português [aqui](https://github.com/SamejSpenser/)!
 
 - Creator and administrator of the [HYPNOSIS Practice](https://medium.com/hipnose-pratica/venha-fazer-parte-do-grupo-hipnose-pr%C3%A1tica-553f42094c48) group and the [HP News](https://t.me/HPnews) Channel on Telegram;
 
-- Creator and host of the podcast [HP News — Hypnosis whispered in your ear!](https://www.hpnews.com.br/), (which can also be heard on [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkLm1lZ2Fmb25vLmhvc3QvaHAtbmV3cw%3D%3D), [Spotify](https://open.spotify.com/show/67W05SItb7tV7eWzNWnzh7?si=SQUd0m2pTAaFypmBCViy8Q) and [Podcast Addict](https://podcastaddict.com/?podId=2115346)) and [Accumulated Uselessness](https://podcasters.spotify.com/pod/show/inutilidades) (which can also be heard on [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9lYTA5NDgvcG9kY2FzdC9yc3M%3D), [Spotify](https://open.spotify.com/show/3zm3tqU1fn6qkrJxsKITfq) and [Podcast Addict](https://podcastaddict.com/?podId=2330538) );
+- Creator and host of the podcast [HP News — Hypnosis whispered in your ear!](https://www.hpnews.com.br/), (which can also be heard on [Spotify](https://open.spotify.com/show/67W05SItb7tV7eWzNWnzh7?si=SQUd0m2pTAaFypmBCViy8Q) and [Podcast Addict](https://podcastaddict.com/?podId=2115346)) and [Accumulated Uselessness](https://podcasters.spotify.com/pod/show/inutilidades) (which can also be heard on [Spotify](https://open.spotify.com/show/3zm3tqU1fn6qkrJxsKITfq) and [Podcast Addict](https://podcastaddict.com/?podId=2330538) );
 
 - I have been working with **Online Hypnotherapy** since 2018, as can be [seen here](https://teletype.in/@samej/hipnoterapia-online) (in Portuguese).
 
@@ -95,4 +95,6 @@ Check out my social media and other links on the linktree page: [linktr.ee/samej
 © Raquel Reis • [raquelreis.com.br](https://raquelreis.com.br/).
 
 <p>&nbsp;</p>
+
+
 
