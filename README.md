@@ -3,7 +3,7 @@ title: "Sobre Samej Spenser"
 author: "Samej Spenser"
 dates:
   - create: "July 20, 2022"
-  - modified: "August 17, 2024"
+  - modified: "May 02, 2026"
 tag: "samej_spenser"
 aliases: ["Samej Spenser", "Sobre Samej Spenser"]
 abstract: "Breve descrição sobre Samej Spenser."
@@ -50,7 +50,7 @@ Read in English [here](https://github.com/SamejSpenser/SamejSpenser/blob/main/RE
 
 <img height="auto" width="40%" align="right" alt="Foto de Samej Spenser" src="https://telegra.ph/file/acb931b646acf0d00a1a2.jpg" style="height: auto; width: 40%; float: right;" /><!-- <br /><small><strong>Foto: ©</strong> Raquel Reis • <a target="_blank" title="Raquel Reis Fotografia" href="https://raquelreis.com.br/">raquelreis.com.br</a></small> -->
 
-- Cristão;
+- Cristão protestante (presbiteriano);
 
 - Brasileiro, natural de Mauá, SP;
 
@@ -60,7 +60,7 @@ Read in English [here](https://github.com/SamejSpenser/SamejSpenser/blob/main/RE
 
 - Hipnotista, [Hipnoterapeuta e Reprogramador Mental](https://sociedadeinteramericanadehipnose.com/hipnoterapeutas-certificados#saopaulo "Profissionais Certificados") desde 2011;
 
-- 45 anos;
+- 46 anos;
 
 - Pai de 2 filhos;
 
@@ -79,7 +79,7 @@ Read in English [here](https://github.com/SamejSpenser/SamejSpenser/blob/main/RE
 
 - Criador e host do podcast [HP News — Hipnose ao pé do ouvido!](https://www.hpnews.com.br/), (que também pode ser ouvido no [Spotify](https://open.spotify.com/show/67W05SItb7tV7eWzNWnzh7?si=SQUd0m2pTAaFypmBCViy8Q) e no [Podcast Addict](https://podcastaddict.com/?podId=2115346)) e [Inutilidades Acumuladas](https://podcasters.spotify.com/pod/show/inutilidades) (que também pode ser ouvido no [Spotify](https://open.spotify.com/show/3zm3tqU1fn6qkrJxsKITfq) e no [Podcast Addict](https://podcastaddict.com/?podId=2330538));
 
-- Atuo com **Hipnoterapia Online** desde 2018, como pode ser [conferido aqui](https://teletype.in/@samej/hipnoterapia-online).
+- Atuei com **Hipnoterapia Online** de 2018 a 2024, como pode ser [conferido aqui](https://teletype.in/@samej/hipnoterapia-online).
 
 <p>&nbsp;</p>
 
@@ -95,7 +95,7 @@ Confira minhas redes sociais e demais links na página do linktree: [linktr.ee/s
 
 ### Fotografia
 
-**©** Raquel Reis • [raquelreis.com.br](http://raquelreis.com.br/).
+**©** Raquel Reis • [raquelreis.com.br](https://raquelreis.com.br/).
 
 <!-- ###### tags:
 
